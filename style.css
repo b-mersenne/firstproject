@@ -1,0 +1,25 @@
+table {
+    border:3px solid gray;
+}
+table {
+    margin:50px;
+}
+table td {
+    border:1px solid red;
+    width:100px;
+    height:100px;
+    line-height:100px;
+    text-align:center;
+}
+h1 {
+    border:10px solid pink;
+}
+input {
+    margin:10px;
+    padding:10px;
+}
+input.go {
+    background-color:pink;
+    border:0px;
+    border-radius:10px;
+}
